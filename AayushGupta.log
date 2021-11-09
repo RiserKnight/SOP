@@ -1,0 +1,42 @@
+commit 6aac56df5199ea6a8c80139bf70ae5d6bffa59aa
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:47:36 2021 +0530
+
+    2nd Commit to spider branch
+
+commit 90b4908681152167edb0503d45c8849d5e90b639
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:44:10 2021 +0530
+
+    1st commit in spider branch
+
+commit 380f677bbdb20808d4f4bb43ea3895765e2beb64
+Merge: 8a68a2c b0648d6
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:41:54 2021 +0530
+
+    Merge branch 'develop'
+
+commit b0648d64e5f2e7eddccc28be35c9eea31a8a2519
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:39:21 2021 +0530
+
+    2nd commit in Develop branch
+
+commit 8a68a2c9bcba16a8dac1752e2d3ca0a322454f4e
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:36:09 2021 +0530
+
+    1st commit in main branch
+
+commit e9eef5a3d3f59831f84bafe6568233d845be97e1
+Author: RiserKnight <riser.aayush@gmail.com>
+Date:   Tue Nov 9 14:27:10 2021 +0530
+
+    1st Commit in Develop branch
+
+commit d69e33c3ab8a994b7993b85a8f0223f239767c8b
+Author: Aayush Gupta <32827700+RiserKnight@users.noreply.github.com>
+Date:   Tue Nov 9 14:10:04 2021 +0530
+
+    Initial commit
